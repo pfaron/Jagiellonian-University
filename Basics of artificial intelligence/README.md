@@ -1,0 +1,1 @@
+## Final project for `Basics of artificial intelligence` summer 2021/2022 course
