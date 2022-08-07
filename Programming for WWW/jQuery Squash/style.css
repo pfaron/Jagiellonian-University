@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+
+#court {
+    background-color: #52c6ca;
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#racket {
+    height: 100px;
+    width: 20px;
+    position: absolute;
+    background-color: #0b003a;
+}
+
+
+#ball {
+    background-color: #ffffb9;
+    width: 20px;
+    height: 20px;
+    left: 400px;
+    top: 240px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#startBtn {
+    margin-top: 10px;
+    background-color: #baffc9;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+
+#startBtn:hover {
+    background-color: #248639;
+    color: white;
+    cursor: pointer;
+}
+
+#result {
+    visibility: hidden;
+}
